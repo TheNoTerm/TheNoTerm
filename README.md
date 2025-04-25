@@ -14,7 +14,7 @@
 - 🎓 21-year-old developer passionate full-stack developer.
 - 🌱 Currently trying to learn more about **C++** and **C#**
 
-## 💻 Tech Stack
+## 💻 Languages that I know and use
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNoTerm&layout=compact&theme=gotham" alt="Top Languages" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNoTerm&layout=compact&theme=gotham" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
