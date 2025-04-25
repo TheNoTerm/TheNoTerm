@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNoTerm&layout=compact&theme=gotham" alt="Top Languages" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNoTerm&layout=compact&theme=gotham" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
