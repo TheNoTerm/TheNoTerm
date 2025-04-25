@@ -12,7 +12,7 @@
 
 - 🇳🇱 Based in the **Netherlands**
 - 🎓 21-year-old developer passionate full-stack developer.
-- 🌱 Currently trying to learn more about **C++** and **C#**
+- 🌱 Currently trying to get better at **C++** and **C#**
 
 ## 💻 Languages that I know and use
 
