@@ -30,9 +30,8 @@ NoTerm@github ~ $ ls skills/
 ```
 
 ```
-html5.js    css3.js     javascript.js    typescript.js    react.js
-nextjs.js   tailwind.js node.js          python.py        c++.cpp
-luau.lua
+Html    CSS    Javascript    TypeScript    React
+NextJS   Tailwind    NodeJS    Python    C++    Luau
 ```
 
 ```
