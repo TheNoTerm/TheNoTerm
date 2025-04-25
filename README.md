@@ -34,6 +34,9 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheNoTerm&show_icons=true&theme=gotham" alt="GitHub Stats" />
+</div>
+
+<div align="center">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNoTerm&layout=compact&theme=gotham" alt="Top Languages" />
 </div>
 
