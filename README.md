@@ -22,7 +22,7 @@ NoTerm@github ~ $ cat about.txt
 LOCATION: Netherlands 🇳🇱
 AGE: 21
 OCCUPATION: Full-Stack Developer
-CURRENT_FOCUS: Improving C++ and C# skills
+CURRENT_FOCUS: Improving my C++ skills
 ```
 
 ```
@@ -30,8 +30,8 @@ NoTerm@github ~ $ ls skills/
 ```
 
 ```
-HTML    CSS    Javascript    TypeScript    React
-NextJS   Tailwind    NodeJS    Python    C++    Luau
+HTML    CSS    Javascript    React    Python
+Next.js   Tailwind    Node.js    C++
 ```
 
 ```
